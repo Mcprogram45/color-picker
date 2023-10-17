@@ -4,7 +4,7 @@
     <a title="Github License">
       <img src="https://img.shields.io/github/license/bdlukaa/color-picker" />
     </a>
-    <a title="PRs are welcome">
+    <a title="PRs are welcome   ">
       <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
     </a>
   <div>
